@@ -14,7 +14,7 @@ function App() {
   });
   const [bannedItems, setBannedItems] = useState([]);
 
-  const API_KEY = 'live_TUfQa8enfEUxrUaBP7spJPv4y0lINanVIq1vMNwylQOk3FPFqDyJYah1FJ6GcTP0'; // Replace with your API key
+  const API_KEY = '....'; // Replace with your API key
 
   // Fetch all breeds on component mount
   useEffect(() => {
